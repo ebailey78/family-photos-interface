@@ -7,6 +7,7 @@
       Hello World
     </v-container>
   </v-main>
+  <fp-login-dialog></fp-login-dialog>
   <fp-footer></fp-footer>
 </v-app>
 
